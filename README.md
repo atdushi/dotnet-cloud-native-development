@@ -1,2 +1,21 @@
-# dotnet-cloud-native-development
-.NET Cloud-native Development
+# .NET Cloud-native Development
+Following along [course](https://github.com/dahlsailrunner/crash-course-aspnet6-mvc) on Pluralsight
+
+## System design
+
+<details>
+  <summary>Images</summary>
+
+  ![Design](./images/screenshot1.png?)
+
+  ![Ports](./images/screenshot2.png?)
+
+</details>
+
+## Readme files
+
+- [General readme](./solution/readme.md)
+
+- [Certificate creation](./solution/cert-creation/readme.md)
+
+First create certificates (see certificate creation readme), copy **pfx** file to **CarvedRock.Identity\keys** (set **Copy** property to **Copy always** or **Copy if newer**). Then start **docker-compose** (see general readme).
