@@ -1,5 +1,5 @@
 # .NET Cloud-native Development
-Following along [course](https://github.com/dahlsailrunner/crash-course-aspnet6-mvc) on Pluralsight
+Following along course on Pluralsight
 
 ## System design
 
